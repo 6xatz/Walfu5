@@ -126,7 +126,7 @@ INSERT INTO Mahasiswa (nim, nama, jk, tgl_lahir, jalan, kota, kodepos, no_hp, kd
 ```
 
   <p align="left">
-    <img src="/ss/TabelNV.jpg" width="500">
+    <img src="/ss/TabelNV.jpg" width="700">
   </p>
 
 ### Pertanyaan dari Praktikum 5
